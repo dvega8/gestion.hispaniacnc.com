@@ -1,0 +1,206 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* invoice_lines_picking
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-13 20:32+0000\n"
+"PO-Revision-Date: 2022-10-13 20:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: invoice_lines_picking
+#: model:ir.actions.report,print_report_name:invoice_lines_picking.account_invoices
+#: model:ir.actions.report,print_report_name:invoice_lines_picking.account_invoices_qty
+msgid "(object._get_report_base_filename())"
+msgstr ""
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid ""
+"<span groups=\"account.group_show_line_subtotals_tax_excluded\">Amount</span>\n"
+"                                <span groups=\"account.group_show_line_subtotals_tax_included\">Total Price</span>"
+msgstr ""
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<span>Delivery Note</span>"
+msgstr "Albarán"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<span>Description</span>"
+msgstr "Descripción"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<span>Disc.%</span>"
+msgstr "Desc.%"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<span>Quantity</span>"
+msgstr "Cantidad"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<span>Taxes</span>"
+msgstr "Impuestos"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<span>Unit Price</span>"
+msgstr "Precio Unitario"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<strong class=\"mr16\">Subtotal</strong>"
+msgstr "Subtotal"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid ""
+"<strong class=\"text-center\">Scan me with your banking "
+"app.</strong><br/><br/>"
+msgstr "Escaneame con tu banca"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<strong>Amount Due</strong>"
+msgstr "Importe adeudado"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<strong>Customer Code:</strong>"
+msgstr "Código de Cliente"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<strong>Due Date:</strong>"
+msgstr "Fecha de vencimiento:"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<strong>Incoterm: </strong>"
+msgstr "Incoterm:"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<strong>Invoice Date:</strong>"
+msgstr "Fecha Factura:"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<strong>Reference:</strong>"
+msgstr "Referencia:"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "<strong>Source:</strong>"
+msgstr "Origen:"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.document_tax_totals
+msgid "<strong>Total</strong>"
+msgstr "Total:"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "Cancelled Invoice"
+msgstr "Factura Cancelada"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "Credit Note"
+msgstr "Nota de crédito"
+
+#. module: invoice_lines_picking
+#: model:ir.model.fields,field_description:invoice_lines_picking.field_account_move_line__stock_pickings_line_ids
+msgid "Delivery Note"
+msgstr "Albarán"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "Draft Invoice"
+msgstr "Borrador de factura"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "Invoice"
+msgstr "Factura"
+
+#. module: invoice_lines_picking
+#: model:ir.actions.report,name:invoice_lines_picking.account_invoices
+msgid "Invoices with Delivery"
+msgstr "Facturas con albarán"
+
+#. module: invoice_lines_picking
+#: model:ir.actions.report,name:invoice_lines_picking.account_invoices_qty
+msgid "Invoices with Delivery & Quantity"
+msgstr "Facturas con albarán y cantidad"
+
+#. module: invoice_lines_picking
+#: model:ir.model,name:invoice_lines_picking.model_account_move_line
+msgid "Journal Item"
+msgstr "Artículo de diario"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "Paid on"
+msgstr "Pagado el"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "Please use the following communication for your payment :"
+msgstr "Utilice la siguiente comunicación para su pago:"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "Tax ID"
+msgstr "ID Impuesto"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "Vendor Bill"
+msgstr "Factura del proveedor"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.report_invoice_document_qty
+msgid "Vendor Credit Note"
+msgstr "Nota de crédito del proveedor"
+
+#. module: invoice_lines_picking
+#: model_terms:ir.ui.view,arch_db:invoice_lines_picking.tax_groups_totals
+msgid "on"
+msgstr "en"
